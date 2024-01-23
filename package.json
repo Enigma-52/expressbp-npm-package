@@ -1,6 +1,6 @@
 {
   "name": "express-bp-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate boilerplate code for express app",
   "scripts": {
     "generate": "node generator.js"
@@ -15,7 +15,8 @@
   "keywords": [
     "boilerplate",
     "generator",
-    "express"
+    "express",
+    "node"
   ],
   "author": "Rohit Singh",
   "license": "MIT",

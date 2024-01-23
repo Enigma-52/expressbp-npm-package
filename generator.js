@@ -32,5 +32,4 @@ function generateBoilerplate() {
   generateFiles(templateDir);
   console.log(`Boilerplate generated in ${outputDir}`);
 }
-
 generateBoilerplate();
